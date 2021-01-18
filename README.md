@@ -5,8 +5,8 @@ Trekr app is a travel guide app made with swiftUI. The app is a tutorial made by
 
 *Technologies Used*
 
-SwiftUI
-Xcode 12.3
+SwiftUI,
+Xcode 12.3,
 MapKit
 
 *What i learned*
